@@ -31,8 +31,7 @@ This repository is a part of my personal growth and learning path.
 
 ## 📬 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📊 [Tableau Public](https://public.tableau.com/app/profile/your-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aryabhor1001)
 - 👨‍💻 [GitHub](https://github.com/arya10012)
 
 ---
