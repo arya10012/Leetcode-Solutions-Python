@@ -1,4 +1,4 @@
-# 🧠 LeetCode Python Solutions
+# 🧩 LeetCode Python Solutions
 
 Welcome to my LeetCode solutions repository!  
 Here you'll find Python-based solutions to a variety of algorithm and data structure problems that I’m solving as part of my learning journey and interview preparation.
